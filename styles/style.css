@@ -102,3 +102,18 @@ img {
     line-height: 27px;
     color: #000000;
 }
+
+.footer-text {
+    padding-top: 115px;
+    text-decoration: none;
+    font-family: var(--third-font);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #BDBDBD;
+}
+
+.footer-link {
+    color: #BDBDBD;
+}
