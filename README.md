@@ -3,7 +3,7 @@
 _This is a challenge from Dev Challenges, specialized in frontend develop, is a My Team._
 
 ## [Try the live demo](https://sp33k1337.github.io/my-team-challenge/) ⚡
-![Thumbnail](https://github.com/sp33k1337/404not-found-challenge/blob/main/design/design.png?raw=true)
+![Thumbnail](https://github.com/sp33k1337/my-team-challenge/blob/main/design/design.PNG?raw=true)
 
 <br>
 
