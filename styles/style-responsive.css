@@ -1,0 +1,36 @@
+@media screen and (max-width: 720px) {
+    .header-content {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .container {
+        margin-top: 59px;
+    }
+
+    .main-list {
+        width: 46%;
+    }
+
+    .main-list:nth-child(even) {
+        margin-top: 48px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .main-list {
+        width: 98%;
+        margin-bottom: 20px;
+    }
+
+    .main-list:nth-child(even) {
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .header {
+        margin-top: 35px;
+    }
+}
